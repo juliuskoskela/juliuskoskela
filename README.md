@@ -1,5 +1,7 @@
 # Nice to meet you!
 
+My name is Julius and I'm currently studying programming in Hive Helsinki (part of the 42 school network).
+
 <!--
 **juliuskoskela/juliuskoskela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
