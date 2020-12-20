@@ -1,4 +1,4 @@
-![jkoskela's 42 stats](https://badge42.herokuapp.com/api/stats/jkoskela)
+
 
 <!--
 **juliuskoskela/juliuskoskela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
