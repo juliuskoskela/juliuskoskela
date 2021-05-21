@@ -7,7 +7,7 @@ challenges facing the nature and reach for the stars and beyond! Be good and
 dream big!
 
 ![Julius's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=juliuskoskela&show_icons=true&theme=dracula)
+stats](https://github-readme-stats.vercel.app/api?username=juliuskoskela&show_icons=true&theme=synthwave)
 
 ## Expertise
 
