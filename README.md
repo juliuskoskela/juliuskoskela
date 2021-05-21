@@ -1,16 +1,60 @@
+# Julius Koskela
+
+Hello fellow earthling! I'm a software engineer, designer and entrepreneur from
+Helsinki, Finland. I enjoy solving problems and creating things that people
+love. I also think software can be used to make the world more equal, tackle
+challenges facing the nature and reach for the stars and beyond! Be good and
+dream big!
+
+![Julius's GitHub
+stats](https://github-readme-stats.vercel.app/api?username=juliuskoskela&show_icons=true&theme=outrun)
+
+## Expertise
+
+My core skills lie in algorithmic design, low-level programming, systems
+programming, optimization and graphics programming. I'm always looking to learn
+more and to expand my horizons!
+
+## Languages
+
+C, C++, Assembly, PHP
+
+## Technologies
+
+Git, Vulkan, Linux, Unix, Mac OS, gcc, clang
 
 
-<!--
-**juliuskoskela/juliuskoskela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm working on?
 
-Here are some ideas to get you started:
+I'm a co-founder of Locationews Ltd. We are we are solving prolems that have to
+do with geolocal publishing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Matkailukartta](https://matkailukartta.fi/)
+
+[Explories](https://explori.es/)
+
+I maintain a library that makes life easier as a C-programmer.
+
+[Core](https://github.com/juliuskoskela/core)
+
+Currently working on a school project dealing with optimal flows in a flow
+graph.
+
+[Lem-in](https://github.com/satukoskinen/lem_in)
+
+## Interests
+
+-	Music, production and playing the guitar. I hope to combine my love for
+	making music with programming in the future and am interested in
+	opportunities under this topic! [Soundcloud](https://soundcloud.com/exploringforlife)
+
+-	Nature, hiking and photography. I spend most of my summers up north in the
+	Finnish Lapland. Can we make software that helps fight climate change? [Instagram](https://www.instagram.com/exploringforlife/)
+	
+-	Inequality, justice and open source. Can we build a more equal and humane space
+	online and offline? Can we harness data in an open and trustworthy matter
+	feeding algorithms that try to help people rather than abuse them?
+
+-	Value driven business. Can we build companies that have a greater motivation
+	other than maximizing sharholder value?
+
