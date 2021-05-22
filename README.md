@@ -17,11 +17,13 @@ more and to expand my horizons!
 
 ## Languages
 
-C, C++, Assembly, PHP
+Native language: C
+
+Other: C++, Assembly, PHP
 
 ## Technologies
 
-Git, Vulkan, Linux, Unix, Mac OS, gcc, clang
+Git, Vulkan, Linux, Unix, Mac OS, gcc, clang, bash, Make
 
 
 ## What I'm working on?
