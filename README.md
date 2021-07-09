@@ -39,10 +39,9 @@ I maintain a library that makes life easier as a C-programmer.
 
 [Core](https://github.com/juliuskoskela/core)
 
-Currently working on a school project dealing with optimal flows in a flow
-graph.
+Currently working on a school project to create re-create the famous game "Corewar" which includes writing a simple assembler and a virtual machine.
 
-[Lem-in](https://github.com/satukoskinen/lem_in)
+[Corewar](https://github.com/juliuskoskela/corewar)
 
 ## Interests
 
