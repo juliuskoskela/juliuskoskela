@@ -19,11 +19,11 @@ more and to expand my horizons!
 
 Native language: C
 
-Other: C++, Assembly, PHP
+Other: C++, x86 Assembly, PHP, Python
 
 ## Technologies
 
-Git, Vulkan, Linux, Unix, Mac OS, gcc, clang, bash, Make
+Git, Vulkan, Linux, Unix, Mac OS, gcc, clang, bash, Make, lldb
 
 
 ## What I'm working on?
