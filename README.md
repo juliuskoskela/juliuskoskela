@@ -19,7 +19,7 @@ more and to expand my horizons!
 
 Native language: C
 
-Other: C++, x86 Assembly, PHP, Python
+Other: Rust, C++, x86 Assembly, PHP, Python
 
 ## Technologies
 
