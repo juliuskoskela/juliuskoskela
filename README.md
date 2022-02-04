@@ -9,6 +9,8 @@ dream big!
 ![Julius's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=juliuskoskela&show_icons=true&theme=outrun)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliuskoskela&layout=compact&langs_count=10)
+
 ## Expertise
 
 My core skills lie in algorithmic design, low-level programming, systems
